@@ -1,0 +1,19 @@
+*{
+    margin:0;
+
+}
+
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px 200px 50px;
+    padding: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: aqua;
+}
+h1{
+    color: #12393d;
+}
+h2{
+    color:#006494;
+}
